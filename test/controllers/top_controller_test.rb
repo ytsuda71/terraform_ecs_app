@@ -1,9 +1,9 @@
-require 'test_helper'
+# require 'test_helper'
 
-class TopControllerTest < ActionDispatch::IntegrationTest
-  test "should get index" do
-    get top_index_url
-    assert_response :success
-  end
+# class TopControllerTest < ActionDispatch::IntegrationTest
+#   test "should get index" do
+#     get top_index_url
+#     assert_response :success
+#   end
 
-end
+# end
